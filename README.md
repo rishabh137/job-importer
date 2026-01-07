@@ -40,17 +40,6 @@ The system is designed with scalability, reliability, and real-world data handli
 - React
 - Tailwind CSS
 
----
-
-## Project Structure
-job-importer/
-├── client/ # Next.js frontend (Admin UI)
-├── server/ # Node.js backend
-├── docs/
-│ └── architecture.md # System architecture explanation
-├── README.md
-└── .gitignore
-
 
 ---
 
