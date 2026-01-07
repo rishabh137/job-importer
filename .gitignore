@@ -1,0 +1,60 @@
+# ===============================
+# Node dependencies
+# ===============================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ===============================
+# Environment files (IMPORTANT)
+# ===============================
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# ===============================
+# Next.js build output
+# ===============================
+.next/
+out/
+build/
+
+# ===============================
+# Logs
+# ===============================
+logs/
+*.log
+
+# ===============================
+# OS / Editor files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# IDEs
+# ===============================
+.vscode/
+.idea/
+*.swp
+
+# ===============================
+# Redis
+# ===============================
+dump.rdb
+
+# ===============================
+# Coverage
+# ===============================
+coverage/
+
+# ===============================
+# Optional lock files (keep ONE only)
+# ===============================
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
